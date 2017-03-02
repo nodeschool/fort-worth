@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="-161 0 661 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="0 0 519 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
   <defs>
     <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
       <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
@@ -13,7 +13,7 @@
     <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Adamina:400|Alex+Brush:400|Sura:400,700);</style>
   </defs>
   <path d="M 607.852 227.383" style="fill: none; stroke: black;"/>
-  <g transform="matrix(1, 0, 0, 1, -17.605944, 0)">
+  <g transform="matrix(1.248593, 0, 0, 1.270024, 31.022371, -17.487879)">
     <g transform="matrix(1.079365, 0, 0, 1.054794, 805.115295, -13.774614)">
       <path d="M -754.875 145.055 L -578.374 41.589 L -400.351 146.577 L -395.787 347.423 L -575.331 452.411 L -751.832 351.988 L -754.875 145.055 Z" style="stroke: black; fill: rgba(44, 37, 78, 0.760784);"/>
       <path d="M -768.569 135.926 L -578.374 27.895 L -385.136 142.012 L -385.136 364.16 L -581.417 472.191 L -767.048 362.638 L -768.569 135.926 Z" style="stroke: black; fill: rgba(44, 37, 78, 0.760784);"/>
