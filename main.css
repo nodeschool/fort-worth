@@ -19,9 +19,8 @@
 }
 
 .jumbotron {
-    height: 610px;
+    height: 650px;
     margin-left: 150px;
-    /*margin-top: 8px;*/
     margin-right: 150px;
 }
 
@@ -56,25 +55,15 @@ footer {
     height: 40px;
 }
 
-#conduct, #general {
+#conduct {
     border-radius: 3px;
     width: 600px;
-    height: 400px;
     background-color: lightgray;
     text-align: center;
-    padding: 10px;
     border: solid #B7ADAD 1px;
     box-shadow: #b3b3cc 0px 5px 2px 2px;
+    margin-left: 370px;
 }
-
-#conduct {
-    margin-left: 20px;
-}
-
-#general {
-    margin-left: 100px;
-}
-
 
 #contactForm {
     padding: 10px;
