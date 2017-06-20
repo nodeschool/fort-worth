@@ -22,8 +22,6 @@ html {
 .jumbotron {
     height: auto;
     width: auto;
-    margin-left: 150px;
-    margin-right: 150px;
 }
 
 
@@ -32,7 +30,6 @@ html {
     border-radius: 2px;
     font-size: 14px;
     letter-spacing: 2px;
-    width: 470px;
 }
 
 a {
