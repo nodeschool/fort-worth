@@ -14,7 +14,6 @@ html {
     width: 300px;
 }
 
-
 #jumboLead {
     text-align: center;
     letter-spacing: 1.5px;
@@ -33,7 +32,7 @@ html {
     border-radius: 2px;
     font-size: 14px;
     letter-spacing: 2px;
-    width: 400px;
+    width: 470px;
 }
 
 a {
@@ -67,7 +66,7 @@ footer {
     text-align: center;
     border: solid #B7ADAD 1px;
     box-shadow: #b3b3cc 0px 5px 2px 2px;
-    margin-left: 370px;
+    /* margin-left: 370px; */
 }
 
 /*#contactForm {
