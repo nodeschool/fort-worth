@@ -1,11 +1,9 @@
 ﻿body {
-    background-image: url('images/background2 copy.png');
+    background-image: url('images/ChisolmPark.png');
 }
 
 .page-header img {
-    width: 400px;
     height: auto;
-    margin-left: 10px;
 }
 html {
     position:relative;
@@ -22,7 +20,6 @@ html {
 }
 
 .jumbotron {
-    height: 650px;
     margin-left: 150px;
     margin-right: 150px;
 }
@@ -33,9 +30,6 @@ html {
     border-radius: 2px;
     font-size: 14px;
     letter-spacing: 2px;
-    display: inline-block;
-    float: none;
-    margin-left: 470px;
 }
 
 a {
@@ -60,13 +54,11 @@ footer {
     overflow:hidden;
     font-variant: small-caps;
     color:white;
-    text-align: center;ƒs
-
+    text-align: center;
 }
 
 #conduct {
     border-radius: 3px;
-    width: 600px;
     background-color: lightgray;
     text-align: center;
     border: solid #B7ADAD 1px;
@@ -74,7 +66,7 @@ footer {
     margin-left: 370px;
 }
 
-#contactForm {
+/*#contactForm {
     padding: 10px;
 }
 
@@ -85,11 +77,7 @@ footer {
 #inputText {
     width: 400px;
     height: 100px;
-}
-
-#code {
-    text-align: left;
-}
+}*/
 
 .list-inline {
     font-variant: normal;
@@ -106,7 +94,6 @@ footer {
 
 .table {
     background-color: lightgray;
-    margin-left: 250px;
     border-radius: 2px;
 }
 
