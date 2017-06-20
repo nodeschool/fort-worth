@@ -7,7 +7,10 @@
     height: auto;
     margin-left: 10px;
 }
-
+html {
+    position:relative;
+    min-height: 100%;
+}
 #logo {
     width: 300px;
 }
@@ -48,11 +51,17 @@ hr {
 }
 
 footer {
-    font-variant: small-caps;
     background-color: dimgray;
-    color: white;
-    text-align: center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
     height: 40px;
+    width: 100%;
+    overflow:hidden;
+    font-variant: small-caps;
+    color:white;
+    text-align: center;ƒs
+
 }
 
 #conduct {
