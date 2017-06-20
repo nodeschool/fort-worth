@@ -1,5 +1,5 @@
 ﻿body {
-    background-image: url('images/ChisolmPark.png');
+    background-image: url('images/background2 copy.png');
 }
 
 .page-header img {
@@ -93,10 +93,6 @@ footer {
 }
 
 .table {
-    background-color: lightgray;
     border-radius: 2px;
-}
-
-#eventLabel {
-    margin: 0px auto;
+    background-color:lightgray;
 }
