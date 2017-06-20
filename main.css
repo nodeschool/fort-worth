@@ -3,7 +3,7 @@
 }
 
 .page-header img {
-    height: auto;
+    width: 400px;
 }
 html {
     position:relative;
@@ -20,6 +20,8 @@ html {
 }
 
 .jumbotron {
+    height: auto;
+    width: auto;
     margin-left: 150px;
     margin-right: 150px;
 }
