@@ -4,6 +4,7 @@
 
 .page-header img {
     width: 400px;
+    height: 350px;
 }
 html {
     position:relative;
@@ -32,6 +33,7 @@ html {
     border-radius: 2px;
     font-size: 14px;
     letter-spacing: 2px;
+    width: 400px;
 }
 
 a {
