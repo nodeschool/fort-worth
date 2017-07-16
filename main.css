@@ -62,7 +62,6 @@ footer {
     background-color: #eee;
     text-align: center;
     padding: 30px;
-    font-size: initial;
 }
 
 /*#contactForm {
@@ -81,7 +80,6 @@ footer {
 .list-inline {
     font-variant: normal;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-
 }
 
 .list-inline a:hover {
