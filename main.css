@@ -57,10 +57,12 @@ footer {
     text-align: center;
 }
 
-#conduct {
+.conduct {
     border-radius: 3px;
     background-color: #eee;
     text-align: center;
+    padding: 30px;
+    font-size: initial;
 }
 
 /*#contactForm {
