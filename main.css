@@ -59,11 +59,8 @@ footer {
 
 #conduct {
     border-radius: 3px;
-    background-color: lightgray;
+    background-color: #eee;
     text-align: center;
-    border: solid #B7ADAD 1px;
-    box-shadow: #b3b3cc 0px 5px 2px 2px;
-    /* margin-left: 370px; */
 }
 
 /*#contactForm {
