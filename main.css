@@ -93,3 +93,13 @@ footer {
     border-radius: 2px;
     background-color:lightgray;
 }
+
+.mediumJumbotron{
+    padding-top:25px; 
+    padding-bottom:15px; 
+    max-width:850px; 
+    min-height:205px; 
+    background-color: #eee; 
+    margin-bottom:20px; 
+    border-radius:6px;
+}
