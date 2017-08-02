@@ -10,8 +10,9 @@ html {
     position:relative;
     min-height: 100%;
 }
+
 #logo {
-    width: 300px;
+    width: 250px;
 }
 
 #jumboLead {
@@ -19,17 +20,11 @@ html {
     letter-spacing: 1.5px;
 }
 
-.jumbotron {
-    height: auto;
-    width: auto;
-}
-
-
 #mainNavigation {
     background-color: #b3b3cc;
     border-radius: 2px;
     font-size: 14px;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
 }
 
 a {
@@ -61,21 +56,8 @@ footer {
     border-radius: 3px;
     background-color: #eee;
     text-align: center;
-    padding: 30px;
+    padding: 15px;
 }
-
-/*#contactForm {
-    padding: 10px;
-}
-
-#inputEmail, #submit {
-    width: 400px;
-}
-
-#inputText {
-    width: 400px;
-    height: 100px;
-}*/
 
 .list-inline {
     font-variant: normal;
@@ -102,4 +84,16 @@ footer {
     background-color: #eee; 
     margin-bottom:20px; 
     border-radius:6px;
+}
+
+.conductText {
+    letter-spacing: 2px;
+}
+
+.defaultHover a:hover {
+        color: black;
+       background-color: #EDBBB1;
+       text-decoration: none;
+       letter-spacing: 1px;
+       border-radius: 2px;
 }
