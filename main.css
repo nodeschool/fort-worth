@@ -7,7 +7,7 @@
 }
 
 html {
-    position:relative;
+    position: relative;
     min-height: 100%;
 }
 
@@ -46,9 +46,9 @@ footer {
     bottom: 0;
     height: 40px;
     width: 100%;
-    overflow:hidden;
+    overflow: hidden;
     font-variant: small-caps;
-    color:white;
+    color: white;
     text-align: center;
 }
 
@@ -65,25 +65,25 @@ footer {
 }
 
 .list-inline a:hover {
-       background-color: white;
-       text-decoration: none;
-       letter-spacing: 2px;
-       border-radius: 2px;
+    background-color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    border-radius: 2px;
 }
 
 .table {
     border-radius: 2px;
-    background-color:lightgray;
+    background-color: lightgray;
 }
 
-.mediumJumbotron{
-    padding-top:25px; 
-    padding-bottom:15px; 
-    max-width:850px; 
-    min-height:205px; 
-    background-color: #eee; 
-    margin-bottom:20px; 
-    border-radius:6px;
+.mediumJumbotron {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    max-width: 850px;
+    min-height: 205px;
+    background-color: #eee;
+    margin-bottom: 20px;
+    border-radius: 6px;
 }
 
 .conductText {
@@ -91,9 +91,9 @@ footer {
 }
 
 .defaultHover a:hover {
-        color: black;
-       background-color: #EDBBB1;
-       text-decoration: none;
-       letter-spacing: 1px;
-       border-radius: 2px;
+    color: black;
+    background-color: #EDBBB1;
+    text-decoration: none;
+    letter-spacing: 1px;
+    border-radius: 2px;
 }
